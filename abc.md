@@ -828,3 +828,6 @@ Just tell me which option you prefer, and I’ll create it.
 
 No file chosenNo file chosen
 ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+
+
+https://chatgpt.com/share/6937f4dd-8fdc-8010-bfea-29523c410130
